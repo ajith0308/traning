@@ -1,0 +1,21 @@
+h1{
+    color: aquamarine;
+    font-size: 50px;
+}
+
+span{
+    color:green;
+}
+
+h2{
+    margin:10px,10px,10px;
+}
+h1{
+    margin: 10px,10px,10px,10px;
+}
+h3{
+    margin: 10px,10px;
+}
+h4{
+    margin:10px ;
+}

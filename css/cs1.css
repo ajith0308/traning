@@ -1,0 +1,144 @@
+.box
+{
+    height: 100px;
+    width:41%;
+    background: red;
+    margin-top: 10px;
+    margin-bottom:5px;
+    margin-right: 5px;
+    margin-left:20px;
+    display:inline-block;
+     text-align:center;
+}
+.box2
+{
+    height: 100px;
+    width:56%;
+    background: blue;
+    margin-top: 10px;
+    margin-right:5px;
+    margin-left:5px;
+    margin-bottom:5px;
+    display:inline-block;
+}
+.box3
+{
+    height:100px;
+    width:98%;
+    background:yellow;
+    margin-top:5px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-bottom:5px;
+
+}
+.box4
+{
+    height:100px;
+    width:32%;
+    margin-left:20px;
+    margin-right:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+    background:green;
+    display:inline-block;
+}
+.box5
+{
+height:100px;
+width:32%;
+margin-left:5px;
+margin-right:5px;
+margin-top:5px;
+margin-bottom:5px;
+background:gray;
+display:inline-block;
+}
+.box6
+{
+height:100px;
+width:32%;
+margin-left:5px;
+margin-right:10px;
+margin-top:5px;
+margin-bottom:5px;
+background:pink;
+display:inline-block;
+}
+.box7
+{
+    height:100px;
+    width:48%;
+    margin-left:20px;
+    margin-right:5px;
+    margin-bottom:5px;
+    margin-top:5px;
+    background:darkblue;
+    display:inline-block;
+}
+.box8
+{
+    height:100px;
+    width:48%;
+    margin-left:5px;
+    margin-right:20px;
+    margin-bottom:5px;
+    margin-top:5px;
+    background:lightgreen;
+    display:inline-block;
+}
+.box81
+{
+    height:100px;
+    width:24%;
+    margin-left:20px;
+    margin-right:5px;
+    margin-bottom:5px;
+    margin-top:5px;
+    background:green;
+    display:inline-block;
+}
+.box82
+{
+    height:100px;
+    width:24%;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:5px;
+    margin-top:5px;
+    background:lightgreen;
+    display:inline-block;
+}
+.box83
+{
+    height:100px;
+    width:24%;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:5px;
+    margin-top:5px;
+    background:pink;
+    display:inline-block;
+}
+.box84
+{
+    height:100px;
+    width:23%;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:5px;
+    margin-top:5px;
+    background:yellow;
+    display:inline-block;
+}
+.box85
+{
+    height:100px;
+    width:100%;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:5px;
+    margin-top:5px;
+    background:black;
+    display:inline-block;
+}
