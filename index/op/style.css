@@ -1,0 +1,85 @@
+
+body{
+    border-color: black;
+    border: 2px solid;
+    align-self: center;
+}
+.img{
+    height: 150px;
+    width: 150px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.name
+{
+    margin-left:45%;
+    font-size: 36px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.csrf,
+.eduction,
+.pro
+{
+    margin-left: 150px;
+    font-weight: 100;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+    
+}
+.con,.skill,.aws,.tr,.plk,.sp,.lg
+{
+    margin-left: 350px;
+    font-weight: 100;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+
+}
+.clg,.c1,.c2,.c3,.c4,.c5,.c6,.p1,.p5,.co1
+{
+    margin-left: 150px;
+    font-size: 18px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.deg,.c11,.c22,.c33,.c44,.c55,.c66,.p2,.p3,.p6
+{
+    margin-left: 150px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.796);
+}
+.co1,.co2,.co3,.co4,.co5,.sk1,.sk2,.sk3,.sk4,.sk5,.sk,.aw1,.aw2,.aw3,.aw4,.aw5,.aw6,.aw7,.tr1,.tr2,.tr3,.tr4,.tr5,.plk1,.sp1,.sp2,.lg1
+{
+    margin-left: 350px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.796);
+  
+  
+}
+.tm
+{
+    margin-left: 150px;
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.534);
+}
+.cgpa
+{
+    margin-left: 150px;
+    font-size: 12px;
+    color: black;
+
+}
+.p7,.p4
+{
+    color: red;
+    margin-left: 150px;
+    font-size: 18px;
+
+}
+
+#name{
+        margin-left: 150px;
+}
